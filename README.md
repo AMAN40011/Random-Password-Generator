@@ -42,4 +42,4 @@ This project is built using:
 
 ---
 
-
+## Generate  password max 6 character
